@@ -2,6 +2,8 @@
 
 A novel reinforcement learning algorithm that combines hierarchical multi-agent PPO (Proximal Policy Optimization) with large language model (LLM)-based sentiment analysis to simulate and optimize trading strategies in dynamic financial markets.
 
+![AHMAPPO](https://github.com/user-attachments/assets/18967ff3-925b-4e11-895f-d20acdd32b71)
+
 🌟 Highlights
 
     ✅ Introduced AHMAPPO, a novel hierarchical multi-agent PPO architecture for financial trading.
