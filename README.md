@@ -152,8 +152,6 @@ flowchart TD
 
     Explore transformer-based policy networks for improved long-term planning.
 
-![Repo views:](https://komarev.com/ghpvc/?username=S-Varshaa-Sai-Sripriya&color=blue) 
-
 ## 🔐 Repository Info
 
 > This repository is a **public demo** showcasing insights, sample outputs, and visualizations from the Personal Finance Tracker project.  
