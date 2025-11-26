@@ -154,5 +154,5 @@ flowchart TD
 
 ## 🔐 Repository Info
 
-> This repository is a **public demo** showcasing insights, sample outputs, and visualizations from the Personal Finance Tracker project.  
+> This repository is a **public demo** showcasing insights, sample outputs, and visualizations.  
 > The **full source code & novel algorithm files are maintained in a private repository** to preserve originality.
